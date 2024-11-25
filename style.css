@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+header{
+    background-color: #27D8EA;
+    border: 1px;
+    margin: 0;
+    align-items: center;
+    display: flex;
+}
+
+#logo-menor {
+    width: 105px;
+    height: 106px;
+}
+
+.btn-header {
+    border: none;
+    font-size: 40px;
+    font-family: montserrat;
+    background-color: #27D8EA;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+#div-logo {
+    display: flex;
+    justify-content: center;
+}
+
+#fundo {
+    width: 600px;
+    height: 600px;
+}
